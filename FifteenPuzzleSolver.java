@@ -11,6 +11,7 @@ import java.util.List;
  * 
  * @author andrew
  */
+
 public class FifteenPuzzleSolver {
 
 	public static void main(String [] args) {
